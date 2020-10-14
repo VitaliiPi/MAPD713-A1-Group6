@@ -1,0 +1,12 @@
+{
+  "name": "MAPD713-Assignment1-Group6",
+  "version": "1.0.0",
+  "description": "Creating NODE server with local storage",
+  "dependencies": {
+    "restify": "4.1.1",
+    "save": "2.3.0"
+  },
+  "author": "Pielievin Vitalii and Dmytro Andriichuk",
+  "private": true,
+  "main": "index.js"
+}
